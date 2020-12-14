@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = ankit_laptop
 ['remote "myremote"']
+    url = gdrive://1BSmY4W_6omWXVsEGRMy1zIzBm9itgXUP
+['remote "ankit_laptop"']
     url = gdrive://1BSmY4W_6omWXVsEGRMy1zIzBm9itgXUP
