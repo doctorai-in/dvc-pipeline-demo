@@ -1,3 +1,7 @@
 outs:
+<<<<<<< HEAD
 - md5: a6aec8da63a5fa2619af025a76746f29
+=======
+- md5: 006ed52a68cefbf6972601a60f1c29f1
+>>>>>>> 2746cf3590e891d057747dc90f4c487c788b67e2
   path: data_raw.csv
