@@ -8,6 +8,7 @@
 * `step 5 : try dvc push or dvc pull`
 
 ## `CML Workflow defination files`
+* `create new branch`
 * `step 6 : define dvc.yaml`
 * `step 7 : create .github/workflows/train.yaml`
 
